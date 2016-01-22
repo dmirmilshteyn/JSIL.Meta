@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+  "description": "JSIL.Meta",
+  "authors": [ "kg" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "compilationOptions": {
+    "allowUnsafe": true
+  },
+
+  "frameworks": {
+    "net451": { },
+    "dnx451": { }
+  }
+}
